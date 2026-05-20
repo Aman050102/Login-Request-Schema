@@ -24,9 +24,4 @@
 * **Endpoint:** `POST /api/v1/auth/login`
 * **Mock Server URL:** `[วาง URL Mock Server ของคุณที่ได้จาก Postman ตรงนี้]`
 
-### ตัวอย่าง Request Body
-```json
-{
-  "username": "67023086@up.ac.th",
-  "password": "YOUR_PASSWORD"
-}
+
